@@ -41,13 +41,13 @@ create schema, seed database and start server
 full video: https://drive.google.com/file/d/1AAX_8DKKZIf9Hn8XuPO5nnI8POzeSglH/view
 
 GET routes to return all categories, all products and all tags
-![screenshot](screenshot.gif)
+![screenshot](video2.gif)
 full video: https://drive.google.com/file/d/1Ijk0hGP74UKzH4yxjjc-MDgiqz3XamSw/view
 
 GET routes to create a single category, single product and single tag
-![screenshot](screenshot.gif)
+![screenshot](video3.gif)
 full video: https://drive.google.com/file/d/1SKr8tYKaBY8cRj0WS_R2gVtDJoZOPO4o/view
 
 POST, PUT and DELETE routes for categories
-![screenshot](screenshot.gif)
+![screenshot](video4.gif)
 full video: https://drive.google.com/file/d/14Djv0Wrt-451t8YFkui8yiTGXpF0rxjD/view
